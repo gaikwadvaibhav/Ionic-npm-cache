@@ -1,0 +1,8 @@
+{
+  "name": "img-caching",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
